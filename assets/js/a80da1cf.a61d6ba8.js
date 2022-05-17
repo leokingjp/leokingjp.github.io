@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmilkomeda=self.webpackChunkmilkomeda||[]).push([[893],{4863:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/blog/tags/docusaurus","allTagsPath":"/blog/tags","count":4}')}}]);
