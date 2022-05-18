@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmilkomeda=self.webpackChunkmilkomeda||[]).push([[377],{3769:function(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
